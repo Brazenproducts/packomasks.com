@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://packomasks.com/sitemap.xml
